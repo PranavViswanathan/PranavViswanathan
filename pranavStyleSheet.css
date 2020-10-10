@@ -52,7 +52,21 @@ ul li.active a{
     font-family: cursive;
     font-size: 70px;
     color: white;
+    animation: type 3s steps(22);
+    overflow:hidden;
+    white-space: nowrap;
+    border-right:4px solid white;
+    width: 17ch;
 
+
+}
+@keyframes type{
+    0%{
+        width:0ch;
+    }
+    100%{
+        width:22ch;
+    }
 }
 .button{
     position: absolute;
@@ -72,3 +86,13 @@ ul li.active a{
     background-color: white;
     color: black;
 }
+/*.title{
+    animation: type 3s steps(22);
+    overflow:hidden;
+    white-space: nowrap;
+    border-right:4px solid black;
+    width: 17ch;
+
+}*/
+
+
