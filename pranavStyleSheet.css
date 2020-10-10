@@ -49,14 +49,20 @@ ul li.active a{
     transform: translate(-50%,-50%);
 }
 .title h1{
-    font-family: cursive;
-    font-size: 70px;
     color: white;
-    animation: type 3s steps(22);
+    font-size: 70px;
+    position: relative;
+}
+.title h2{
+    font-family: cursive;
+    font-size: 45px;
+    color: white;
+    animation: type 3s steps(20);
     overflow:hidden;
     white-space: nowrap;
     border-right:4px solid white;
-    width: 25ch;
+    width: 18ch;
+    position: relative;
 
 
 }
@@ -65,7 +71,7 @@ ul li.active a{
         width:0ch;
     }
     100%{
-        width:22ch;
+        width:20ch;
     }
 }
 .button{
@@ -86,13 +92,6 @@ ul li.active a{
     background-color: white;
     color: black;
 }
-/*.title{
-    animation: type 3s steps(22);
-    overflow:hidden;
-    white-space: nowrap;
-    border-right:4px solid black;
-    width: 17ch;
 
-}*/
 
 
