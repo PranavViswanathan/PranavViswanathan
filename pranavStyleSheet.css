@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
     font-family: Arial;
@@ -24,6 +24,7 @@ ul li a{
     padding: 5px 20px;
     border: 1px solid transparent;
     transition: 0.6s ease;
+    display: block; 
 }
 ul li a:hover{
     background-color: white;
@@ -111,4 +112,5 @@ ul li.active a{
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
+
 
