@@ -15,6 +15,6 @@
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavViswanathan&count_private=true&theme=radical&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&layout=compact)](https://github.com/PranavViswanathan)
-[![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PranavViswanathan&theme=xcode)](https://pranavcoder.netlify.app/)
+[![Pranav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PranavViswanathan&theme=monokai)](https://pranavcoder.netlify.app/)
 
 
