@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/72350161/119657759-efccd280-be49-11eb-91ca-32eae4967b7d.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-pranav.viswanathan11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pranav.viswanathan11@gmail.com)](mailto:pranav.viswanathan11@gmail.com) [![Github Badge](https://img.shields.io/badge/-PranavViswanathan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PranavViswanathan/)](https://www.github.com/PranavViswanathan/) [![Twitter Badge](https://img.shields.io/badge/-@crazycoder21-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@crazycoder21/)](https://www.twitter.com/@crazycoder21/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://pranavcoder.netlify.app//)](https://pranavcoder.netlify.app//)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hey+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hey+there!I'm+Pranav!)](https://git.io/typing-svg)
 <p align='left'>I'm an undergrad student currently pursuing Computer Science with Specialization in Cyber-Physical systems. I love studing about IOT and Machine learning.</p>
 
 
