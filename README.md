@@ -1,4 +1,4 @@
-![Copy of Pranav Viswanathan](https://github.com/PranavViswanathan/PranavViswanathan/blob/master/Copy%20of%20Pranav%20Viswanathan.gif)
+![Copy of Pranav Viswanathan](https://github.com/PranavViswanathan/PranavViswanathan/blob/master/githubGIFTwo.gif)
 
 
 
