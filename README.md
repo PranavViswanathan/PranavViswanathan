@@ -1,5 +1,5 @@
+![Copy of Pranav Viswanathan](https://github.com/PranavViswanathan/PranavViswanathan/blob/master/Copy%20of%20Pranav%20Viswanathan.gif)
 
-![Pranav_Viswanathan_1698x691](https://user-images.githubusercontent.com/72350161/119676907-e187b200-be5b-11eb-8b39-a99d929a69da.png)
 
 
 
