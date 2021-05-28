@@ -45,7 +45,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=PranavViswanathan alt=PranavViswanathan /> </p>
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavViswanathan&count_private=true&theme=radical&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&layout=compact)](https://github.com/PranavViswanathan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&theme=blue-green)
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavViswanathan&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
