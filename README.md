@@ -47,6 +47,13 @@
  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
+## Connect with me on: 
+
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+ </p>
+ 
 ## Some of my stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=PranavViswanathan alt=PranavViswanathan /> </p>
 
