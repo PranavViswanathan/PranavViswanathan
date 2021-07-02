@@ -55,7 +55,9 @@
  </p>
  
 ## Some of my stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=PranavViswanathan alt=PranavViswanathan /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=PranavViswanathan alt=PranavViswanathan /> </p>
+
+<br><br>
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavViswanathan&count_private=true&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&theme=blue-green)
