@@ -65,11 +65,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&theme=blue-green)
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavViswanathan&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   <center> <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavViswanathan&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td></center>
    </tr>
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=PranavViswanathan&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
-  </td>
-  </tr>
+  
 </table>
 
