@@ -3,7 +3,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-pranav.viswanathan11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pranav.viswanathan11@gmail.com)](mailto:pranav.viswanathan11@gmail.com) [![Github Badge](https://img.shields.io/badge/-PranavViswanathan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PranavViswanathan/)](https://www.github.com/PranavViswanathan/) [![Twitter Badge](https://img.shields.io/badge/-@crazycoder21-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@crazycoder21/)](https://www.twitter.com/@crazycoder21/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Welcome+to+my+page!)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Welcome+to+my+page!)
 <p align='left'>I'm an undergrad student currently pursuing Computer Science with Specialization in Cyber-Physical systems.I'm constantly finding new things to learn and explore. I love studying about IOT and Machine learning. I love participating in hackathons and competitive coding events.</p>
 
 ## Tech I can use
@@ -14,6 +14,9 @@
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
