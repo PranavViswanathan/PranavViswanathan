@@ -58,6 +58,10 @@
 <a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
  </p>
  
+ 
+ [![@pranavviswanathan's Holopin board](https://holopin.me/pranavviswanathan)](https://holopin.io/@pranavviswanathan)
+ 
+ 
 ## Some of my stats
 <p align=center> <img src=https://komarev.com/ghpvc/?username=PranavViswanathan alt=PranavViswanathan /> </p>
 
