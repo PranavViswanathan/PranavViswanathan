@@ -4,7 +4,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-pranav.viswanathan11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pranav.viswanathan11@gmail.com)](mailto:pranav.viswanathan11@gmail.com) [![Github Badge](https://img.shields.io/badge/-PranavViswanathan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PranavViswanathan/)](https://www.github.com/PranavViswanathan/) [![Twitter Badge](https://img.shields.io/badge/-@crazycoder21-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@crazycoder21/)](https://www.twitter.com/@crazycoder21/)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Welcome+to+my+page!)
-<p align='left'>I'm an undergrad student currently pursuing Computer Science with Specialization in Cyber-Physical systems.I'm constantly finding new things to learn and explore. I love studying about IOT and Machine learning. I love participating in hackathons and competitive coding events.</p>
+<p align='left'>Hey there! I'm Pranav, a third-year student at Vellore Institute of Technology, Chennai. I will be graduating in the fall of 2024 with a Batchelor's degree in Computer Science and Engineering with a Specialization in Cyber-Physical Systems.
+
+Working with technology excites me and during my time at college, I worked on innovative and engaging projects with real-time implementations. I also really enjoy hackathons and have participated in several of them, learning new things in each. I love working on projects where I get to collaborate with people with varied specialties and personalities and I work well in a team.
+
+The Internet of Things, Cyber-Physical Systems, and Machine learning are my fields of interest. I am currently working as a summer research intern on Digital Tools for Industry 4.0 by the Center of Automation at VIT-Chennai
+
+I really enjoy learning new things and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch.</p>
 
 ## Tech I can use
 
