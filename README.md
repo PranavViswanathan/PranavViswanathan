@@ -42,7 +42,9 @@
 
 </p>
 
-
+ [![@pranavviswanathan's Holopin board](https://holopin.me/pranavviswanathan)](https://holopin.io/@pranavviswanathan)
+ 
+ 
 ## Blog Sites/Formatting I Use
 
 <p align="center">
@@ -59,7 +61,7 @@
  </p>
  
  
- [![@pranavviswanathan's Holopin board](https://holopin.me/pranavviswanathan)](https://holopin.io/@pranavviswanathan)
+
  
  
 ## Some of my stats
