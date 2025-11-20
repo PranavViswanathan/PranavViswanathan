@@ -18,7 +18,7 @@ Feel free to explore my projects—each one represents a problem I was excited t
 
 ### Main Skills
  
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,js,r,matlab,php,html,css,react,nodejs,nextjs,flask,django,express,bootstrap,mongodb,mysql,postgres,firebase,tensorflow,pytorch,sklearn,docker,aws,gcp,git,github,githubactions,jenkins,eclipse,androidstudio,opencv,arduino,raspberrypi,linux,postman,selenium,jest,notion,ps,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,js,r,matlab,php,html,css,react,nodejs,nextjs,flask,django,express,bootstrap,mongodb,mysql,postgres,firebase,tensorflow,pytorch,sklearn,docker,aws,gcp,docker,git,github,githubactions,jenkins,eclipse,androidstudio,opencv,arduino,raspberrypi,linux,postman,selenium,jest,notion,ps,terraform,heroku,matlab,nginx	)](https://skillicons.dev)
 
  [![@pranavviswanathan's Holopin board](https://holopin.me/pranavviswanathan)](https://holopin.io/@pranavviswanathan)
 ### Connect with me!
