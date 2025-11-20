@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pranav%20Viswanthan&textBg=false&customColorList=8" alt="header"/> 
 <div align="center">
-  <img src="https://github.com/PranavViswanathan/PranavViswanathan/blob/master/terminal%20(1).gif" alt="Terminal GIF"/>
+  <img src="https://github.com/PranavViswanathan/PranavViswanathan/blob/master/terminal%20(4).gif" alt="Terminal GIF"/>
 </div>
 
 <br>
