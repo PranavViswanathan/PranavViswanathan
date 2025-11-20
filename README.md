@@ -10,8 +10,6 @@
 
 I'm drawn to projects that combine data, algorithms, and infrastructure. Whether it's building end-to-end ML pipelines that predict bike-sharing demand across Boston, developing reinforcement learning agents that learn to race, or creating real time anomaly detection systems for industrial equipment—I'm all about turning complex problems into elegant, scalable solutions. There's something deeply satisfying about watching a well-architected system come together.
 
-My toolkit spans the full stack, from Python and Java to React and Flask, from TensorFlow and PyTorch to Docker and AWS. I believe great software comes from understanding both the theory and the practice: implementing gradient boosting from scratch helps you use XGBoost more effectively, and building custom neural networks teaches you when to reach for PyTorch. At NergyLive, I built systems processing 10,000+ sensor readings per minute. Now at Northeastern, I'm pushing myself with advanced ML coursework while building production systems that handle millions of data points.
-
 When I'm not coding, you'll find me exploring new frameworks, diving into ML research papers, or optimizing my GitHub workflows. I'm currently seeking Software Engineering, Machine Learning and Data Analyst roles where I can continue building systems that bridge machine learning and software engineering.
 
 Feel free to explore my projects—each one represents a problem I was excited to solve and lessons I'm eager to share!</p>
