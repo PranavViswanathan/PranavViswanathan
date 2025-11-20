@@ -23,7 +23,7 @@ Feel free to explore my projects—each one represents a problem I was excited t
  [![@pranavviswanathan's Holopin board](https://holopin.me/pranavviswanathan)](https://holopin.io/@pranavviswanathan)
 ### Connect with me!
 <div align="center">
-    <a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/" target="_blank">
+    <a href="https://www.linkedin.com/in/pranav-viswanathan-7976711b7/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/PranavViswanathan">
