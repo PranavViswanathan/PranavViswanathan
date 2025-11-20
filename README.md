@@ -46,7 +46,7 @@ Feel free to explore my projects—each one represents a problem I was excited t
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavViswanathan&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages"/>
-  <img width="49%" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavViswanathan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="49%" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavViswanathan&theme=tokyo-night&hide_border=true&area=true&height=1500" alt="Contribution Graph"/>
 </div>
 
 ![snake](https://github.com/PranavViswanathan/PranavViswanathan/blob/output/github-contribution-grid-snake.svg)
