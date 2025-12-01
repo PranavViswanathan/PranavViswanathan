@@ -35,12 +35,7 @@ View my website: https://pranavvis.tech
 </div>
 
 ### Some of my stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PranavViswanathan&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PranavViswanathan&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavViswanathan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
