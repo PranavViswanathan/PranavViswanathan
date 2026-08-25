@@ -6,13 +6,13 @@
 
 <br>
 
-<p align='left'>Hello! I'm Pranav, a Master's student in Computer Science at Northeastern University with a passion for building intelligent systems that solve real-world problems. I love working at the intersection of machine learning and software engineering—taking models from research notebooks to production-grade applications that actually make an impact.
-
-I'm drawn to projects that combine data, algorithms, and infrastructure. Whether it's building end-to-end ML pipelines that predict bike-sharing demand across Boston, developing reinforcement learning agents that learn to race, or creating real time anomaly detection systems for industrial equipment—I'm all about turning complex problems into elegant, scalable solutions. There's something deeply satisfying about watching a well-architected system come together.
-
-When I'm not coding, you'll find me exploring new frameworks, diving into ML research papers, or optimizing my GitHub workflows. I'm currently seeking Software Engineering, Machine Learning and Data Analyst roles where I can continue building systems that bridge machine learning and software engineering.
-
-Feel free to explore my projects—each one represents a problem I was excited to solve and lessons I'm eager to share!</p>
+<p align='left'>GenAI Engineer at Citi, building AI-driven solutions within institutional risk technology. Computer Science graduate from Northeastern University (May 2026), focused on ML engineering, distributed systems, and production-grade backend development. I'm drawn to problems where reliability matters and systems need to scale.
+ 
+On the AI side, I've built CaduceusAI, a three-tier medical AI platform with local LLM inference, AES-256 PHI encryption, audit logging, and a LoRA fine-tuning feedback loop, and OmniRAG, a production RAG pipeline using LlamaIndex, LanceDB, BGE cross-encoder reranking, and Ollama for fully self-hosted document intelligence. On the distributed systems side, I've implemented Raft consensus, deployed multi-service architectures on AWS ECS Fargate with Terraform, and built circuit breaker, leader-follower, and leaderless quorum patterns from scratch.
+ 
+The code I write tends to be modular, observable, and built for failure. I think about caching strategies and invalidation, graceful degradation when dependencies go down, schema migrations that don't break running services, and security boundaries that don't get bolted on at the end. Whether it's a FastAPI service, a Go backend, or a Next.js frontend, I try to write things that a teammate could pick up and extend without needing a walkthrough.
+ 
+I work primarily in Python, Go, and Java, with experience across FastAPI, Docker, PostgreSQL, Redis, AWS, and Terraform.</p>
 
 View my website: https://pranavvis.tech
 
